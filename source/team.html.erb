@@ -1,10 +1,10 @@
 <div class="container text-center">
-  <h2>Our Team</h2>
+  <h2>Our Broou Team</h2>
   <div class="row">
   <!-- <ul class="list-inline"> -->
     <% data.team.each do |member| %>
-      <div class="col-xs-4">
-      <%= partial 'team_member', locals: {name: member[:name], picture_id: member[:picture_id]} %>
+      <div class="col-xs-3">
+        <%= partial 'team_member', locals: {name: member[:name], picture_id: member[:picture_id]} %>
       </div>
     <% end %>
   <!-- </ul> -->
