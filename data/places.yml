@@ -1,24 +1,28 @@
 seb:
   city: Byron Bay
-  intro: Sebs surf spot
+  intro: Seb's surf spot
+  spot_name: The Pass
   description: Surf with dolphings
   card_picture: byron.jpg
   picture: seb.jpg
 adriano:
-  city: Byron Bay
-  intro: Sebs surf spot
+  city: Rio de Janeiro
+  intro: Adriano's surf spot
+  spot_name: P10 Recreio
   description: Surf with dolphings
   card_picture: byron.jpg
-  picture: seb.jpg
+  picture: adriano.jpg
 carolina:
   city: Byron Bay
   intro: Sebs surf spot
+  spot_name: The Pass
   description: Surf with dolphings
   card_picture: byron.jpg
   picture: seb.jpg
-mathieu:
-  city: Byron Bay
-  intro: Sebs surf spot
+roberto:
+  city: Guaruja
+  intro: Roberto's surf spot
+  spot_name: Pitangueiras
   description: Surf with dolphings
   card_picture: byron.jpg
-  picture: seb.jpg
+  picture: roberto.jpg

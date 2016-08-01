@@ -2,8 +2,10 @@
   <h2>Our Broou Team</h2>
   <div class="row">
   <!-- <ul class="list-inline"> -->
+    <div class="col-lg-2 col-sm-2 col-xs-2"></div>
+    <div class="col-lg-1 col-sm-1 col-xs-1"></div>
     <% data.team.each do |member| %>
-      <div class="col-xs-3">
+      <div class="col-lg-2 col-sm-2 col-xs-2">
         <%= partial 'team_member', locals: {name: member[:name], picture_id: member[:picture_id]} %>
       </div>
     <% end %>
