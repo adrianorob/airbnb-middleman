@@ -1,0 +1,16 @@
+world:
+  intro: Discover the world
+  description: The earth is your new home.
+  picture: globe.png
+payment:
+  intro: Pay online
+  description: No cash issues anymore.
+  picture: dollar.png
+people:
+  intro: Meet people
+  description: Discover new culture and lifestyle.
+  picture: beer.png
+share:
+  intro: Share and Love
+  description: Join a community you will love.
+  picture: heart.png
